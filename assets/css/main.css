@@ -115,6 +115,9 @@ section {
   background: #213b7d;
   color: white;
 }
+#header{
+  background: #213b7d;
+}
 
 .header.sticked {
   height: 70px;
